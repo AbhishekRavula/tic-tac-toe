@@ -116,7 +116,7 @@ function result(resultCheck) {
         document.getElementById("result").innerHTML = "you won.... Congratulations!!";
     }else {
         document.getElementById("result").style.visibility = "visible";
-        document.getElementById("result").innerHTML = "✘0 DRAW!!";
+        document.getElementById("result").innerHTML = "Match DRAW!!";
     }
 }
 function restartfunction() {
